@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+<rect width="500" height="500" rx="250" fill="#eef1f7"/>
+<circle cx="250" cy="250" r="220" fill="none" stroke="#2f405f" stroke-width="18"/>
+<text x="250" y="235" text-anchor="middle" font-family="Arial" font-size="62" font-weight="700" fill="#2d3d5e">ROBLOX</text>
+<text x="250" y="305" text-anchor="middle" font-family="Arial" font-size="38" fill="#6c7890">PROFILE</text>
+</svg>
